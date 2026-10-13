@@ -53,9 +53,32 @@
     ]
   },
   {
+    "name": "حامد آتش بار",
+    "linkedin": "https://www.linkedin.com/in/hamed-atashbar/",
+    "avatar": "https://www.linkedin.com/in/hamed-atashbar.png",
+    "education": [
+      "کارشناسی ارشد هوش مصنوعی دانشگاه شهید مدنی آذربایجان"
+    ]
+  },
+  {
+    "name": "Amir Hossein Esanezhad",
+    "linkedin": "https://www.linkedin.com/in/amirhossein-esanezhad/",
+    "avatar": "https://github.com/esa-zz.png",
+    "education": [
+      "Bachelor's in Software Engineering, Islamic Azad University"
+    ],
+    "experience": [
+      "Full-Stack and Data Engineer at Iris by4sure",
+      "Frontend Developer at Duo Blocks",
+      "Frontend Developer at Baro Logistics"
+    ]
+  },
+  {
     "name": "Mohammad Hosein Tahani",
-    "linkedin":"linkedin.com/in/mohammad-hosein-tahani-071413227",
-    "avatar":"https://github.com/miganmht.png",
-    "education":"مهندسی کامپیوتر دانشگاه بهشتی"
+    "linkedin": "https://linkedin.com/in/mohammad-hosein-tahani-071413227",
+    "avatar": "https://github.com/miganmht.png",
+    "education": [
+      "مهندسی کامپیوتر دانشگاه بهشتی"
+    ]
   }
 ]
